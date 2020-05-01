@@ -6,7 +6,7 @@ Your comments are welcome !!!
 
 
 At this time, only the boxes listed below has been rooted:
-- Lame ( Linux )
+- [Lame](https://github.com/s-farhat/HTB-WriteUps/blob/master/Lame.md) ( Linux )
 
 Here's below the list of all the boxes:<br>
 ![List of boxes](https://i.redd.it/sj5beq6ejld21.jpg)
