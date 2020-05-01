@@ -8,5 +8,5 @@ Your comments are welcome !!!
 At this time, only the boxes listed below has been rooted:
 - Lame ( Linux )
 
-Here's below the list of all the boxes:
+Here's below the list of all the boxes:<br>
 ![List of boxes](https://i.redd.it/sj5beq6ejld21.jpg)
