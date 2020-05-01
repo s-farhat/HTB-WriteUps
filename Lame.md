@@ -94,7 +94,7 @@ And **finally**, i got the reverse shell with `daemon` privilege and after perfo
 
 As this box is rated Low. The first thing that i have done is to check the Kernel Version and it is `Linux 2.6.24`.
 I realized that this version is an old one and contains many vulnerabilities. I focused on this vector to gain root privilege.<br>
-After unsuccessful tries, I put my hands on the [Cve-2009-1185](https://www.exploit-db.com/exploits/8572) then i understood what it do exactly and then tried to give a try.
+After unsuccessful tries, I put my hands on the [CVE-2009-1185](https://www.exploit-db.com/exploits/8572) then i understood what it do exactly and then tried to give a try.
 At first, I launched a Simple HTTP Server using python over port 80 using the command below:
 ```
 python -m SimpleHTTPServer 80
