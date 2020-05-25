@@ -3,7 +3,8 @@ Hack The Box — Poison Writeup
 
 ![Image of Poison](https://github.com/s-farhat/HTB-WriteUps/blob/master/images/Poison.png)
 
-**Personal review**: This Machine took me about three (3) hours to gain root privilege. It was pretty easy however, as I'm trying to avoid working w/o Metasploit and, as the version of Linux deployed on this box contains many vulnerabilities, it was pretty challenging.
+**Personal review**: <br>
+This Machine took me about three (2) hour to gain root privilege. It was pretty easy however, as I'm trying to avoid working w/o Metasploit and, as the version of Linux deployed on this box contains many vulnerabilities, it was pretty challenging.
 
 
 ### 1. Reconnaissance
