@@ -5,16 +5,16 @@ In order to prepare for the OSCP certification, I decided to write reports of al
 Your comments are welcome !!!
 
 
-At this time, only the boxes listed below has been rooted:
+At this time, the 9 boxes listed below has been rooted:
 - [Lame](https://github.com/s-farhat/HTB-WriteUps/blob/master/Lame.md) ( Linux )
-- [Legacy]() ( Windows )
-- [Devel]() ( Windows )
-- [Shocker]() ( Linux )
-- [Beep]() ( Windows )
-- [Valentine]() ( Linux )
-- [Bashed]() ( Linux )
+- Legacy ( Windows )
+- Devel ( Windows )
+- Shocker ( Linux )
+- Beep ( Windows )
+- Valentine ( Linux )
+- Bashed ( Linux )
 - [Poison](https://github.com/s-farhat/HTB-WriteUps/blob/master/Poison.md) ( FreeBSD )
-- [Blue]() ( Windows )
+- Blue ( Windows )
 
 
 
